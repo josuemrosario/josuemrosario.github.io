@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjosa_wiki=self.webpackChunkjosa_wiki||[]).push([["3220"],{1912(s){s.exports=JSON.parse('{"blogBasePath":"/en/blog","blogTitle":"Blog","authorsListPath":"/en/blog/authors"}')}}]);
